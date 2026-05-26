@@ -1,24 +1,16 @@
-# Hi there, I'm Mayank Bajpai 👋
+# 💫 About Me:
+# Hi there, I'm Mayank Bajpai 👋<br><br>I am a STEM student based in Patna with a passion for programming that started back in the 8th grade. I bridge the gap between core backend logic and modern UI design, constantly pushing myself to learn new frameworks and build better systems. <br><br>### 🚀 What I'm Currently Building & Learning<br>* **Artificial Intelligence:** Expanding my backend logic by diving deep into **Python** for AI and Machine Learning applications.<br>* **Front-End Refinement:** Leveling up my **JavaScript** skills while building responsive web projects and portfolios using **React** and **Tailwind CSS**.<br>* **Cross-Platform Vision:** Gearing up to master **Flutter** to turn my UI/UX designs into fully functional mobile and web applications.<br>* **Tech Education:** Breaking down complex coding concepts and sharing my developer journey under my creator brand, **@mexatlas**.<br><br>### 🛠️ Tech Stack & Tools<br>**Core Languages:** * Java (Intermediate / Object-Oriented Logic)<br>* Python (Active Focus: AI/ML)<br>* JavaScript, HTML5, CSS3<br><br>**Frameworks & Libraries:** * React<br>* Tailwind CSS<br>* Vite<br><br>### 📫 Let's Connect<br>* **Content & Socials:** Catch my technical breakdowns and tutorials **@mexatlas** across all platforms.<br>* **LeetCode:** [mexatlas](https://leetcode.com/mexatlas) - *Actively sharpening my algorithmic problem-solving.*
 
-I am a STEM student based in Patna with a passion for programming that started back in the 8th grade. I bridge the gap between core backend logic and modern UI design, constantly pushing myself to learn new frameworks and build better systems. 
 
-### 🚀 What I'm Currently Building & Learning
-* **Artificial Intelligence:** Expanding my backend logic by diving deep into **Python** for AI and Machine Learning applications.
-* **Front-End Refinement:** Leveling up my **JavaScript** skills while building responsive web projects and portfolios using **React** and **Tailwind CSS**.
-* **Cross-Platform Vision:** Gearing up to master **Flutter** to turn my UI/UX designs into fully functional mobile and web applications.
-* **Tech Education:** Breaking down complex coding concepts and sharing my developer journey under my creator brand, **@mexatlas**.
+## 🌐 Socials:
+[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/@bajpayimaynk) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Nyctophile) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bajpayimayank023@gmail.com) 
 
-### 🛠️ Tech Stack & Tools
-**Core Languages:** * Java (Intermediate / Object-Oriented Logic)
-* Python (Active Focus: AI/ML)
-* JavaScript, HTML5, CSS3
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=%234FC08D) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=flat&logo=numpy&logoColor=blue) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=flat&logo=Meta&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=flat&logo=xbox&logoColor=white)
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-**Frameworks & Libraries:** * React
-* Tailwind CSS
-* Vite 
+---
+[![](https://komarev.com/ghpvc/?username=Bajpai-Mayank&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 📫 Let's Connect
-* **Tech Content:** Catch my coding tutorials and technical breakdowns on Instagram at [@mexatlas](https://www.instagram.com/mexatlas/).
-* **Personal Network:** Connect with me on my personal Instagram [@bajpayi_mayank](https://www.instagram.com/bajpayi_mayank/).
-* **LeetCode:** [Mayank_Bajpai](https://leetcode.com/Mayank_Bajpai) - *Actively sharpening my algorithmic problem-solving.
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
