@@ -21,3 +21,4 @@ I am a STEM student based in Patna with a passion for programming that started b
 * **Tech Content:** Catch my coding tutorials and technical breakdowns on Instagram at [@mexatlas](https://www.instagram.com/mexatlas/).
 * **Personal Network:** Connect with me on my personal Instagram [@bajpayi_mayank](https://www.instagram.com/bajpayi_mayank/).
 * **LeetCode:** [Mayank_Bajpai](https://leetcode.com/Mayank_Bajpai) - *Actively sharpening my algorithmic problem-solving.
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
