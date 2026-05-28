@@ -17,5 +17,5 @@ I am a developer and tech creator balancing intensive studies in physical chemis
 * **Design & Branding:** UI/UX layouts, bespoke monogram design, and cinematic content storyboarding
 
 ### 📫 Let's Connect
-* **LeetCode:** [mexatlas](https://leetcode.com/mexatlas) - *Check out my official algorithm solutions.*
+* **LeetCode:** [Bajpai_Mayank](https://leetcode.com/mexatlas) - *Check out my official algorithm solutions.*
 * **Tech Content:** Find my coding tutorials, reels, and educational content at **@mexatlas** across all social platforms.
